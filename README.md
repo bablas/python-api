@@ -678,7 +678,7 @@ len(cities)
 
 
 ```python
-api_key = "23ae0640048b80fa8931682445559061"
+api_key = "HIDDEN"
 
 url = "http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=" + api_key
 
